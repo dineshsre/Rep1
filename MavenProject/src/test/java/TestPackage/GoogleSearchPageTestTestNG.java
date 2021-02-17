@@ -25,7 +25,7 @@ public class GoogleSearchPageTestTestNG {
 		Thread.sleep(2000);
 		GoogleSearchPage.buttonSearch(driver).sendKeys(Keys.RETURN);
 	
-		Thread.sleep(3000);
+		Thread.sleep(3010);
 		
 		driver.close();
 		driver.quit();

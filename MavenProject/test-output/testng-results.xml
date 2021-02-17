@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-17T15:18:25Z" name="Default suite" finished-at="2021-02-17T15:18:26Z" duration-ms="985">
+    <groups>
+    </groups>
+    <test started-at="2021-02-17T15:18:25Z" name="Default test" finished-at="2021-02-17T15:18:26Z" duration-ms="985">
+      <class name="Utils.ExcelDataProviderUsingTestNG">
+        <test-method signature="testgetdata(java.lang.String, java.lang.String)[pri:0, instance:Utils.ExcelDataProviderUsingTestNG@1f81aa00]" started-at="2021-02-17T20:48:26Z" name="testgetdata" data-provider="test1data" finished-at="2021-02-17T20:48:26Z" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monday]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetdata -->
+        <test-method signature="testgetdata(java.lang.String, java.lang.String)[pri:0, instance:Utils.ExcelDataProviderUsingTestNG@1f81aa00]" started-at="2021-02-17T20:48:26Z" name="testgetdata" data-provider="test1data" finished-at="2021-02-17T20:48:26Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tuesday]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[February]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetdata -->
+        <test-method signature="testgetdata(java.lang.String, java.lang.String)[pri:0, instance:Utils.ExcelDataProviderUsingTestNG@1f81aa00]" started-at="2021-02-17T20:48:26Z" name="testgetdata" data-provider="test1data" finished-at="2021-02-17T20:48:26Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wednesday]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[March]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetdata -->
+        <test-method signature="testgetdata(java.lang.String, java.lang.String)[pri:0, instance:Utils.ExcelDataProviderUsingTestNG@1f81aa00]" started-at="2021-02-17T20:48:26Z" name="testgetdata" data-provider="test1data" finished-at="2021-02-17T20:48:26Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thursday]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[April]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetdata -->
+        <test-method signature="testgetdata(java.lang.String, java.lang.String)[pri:0, instance:Utils.ExcelDataProviderUsingTestNG@1f81aa00]" started-at="2021-02-17T20:48:26Z" name="testgetdata" data-provider="test1data" finished-at="2021-02-17T20:48:26Z" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Friday]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetdata -->
+        <test-method signature="testgetdata(java.lang.String, java.lang.String)[pri:0, instance:Utils.ExcelDataProviderUsingTestNG@1f81aa00]" started-at="2021-02-17T20:48:26Z" name="testgetdata" data-provider="test1data" finished-at="2021-02-17T20:48:26Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Saturday]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetdata -->
+        <test-method signature="testgetdata(java.lang.String, java.lang.String)[pri:0, instance:Utils.ExcelDataProviderUsingTestNG@1f81aa00]" started-at="2021-02-17T20:48:26Z" name="testgetdata" data-provider="test1data" finished-at="2021-02-17T20:48:26Z" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sunday]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[July]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetdata -->
+        <test-method signature="testgetdata(java.lang.String, java.lang.String)[pri:0, instance:Utils.ExcelDataProviderUsingTestNG@1f81aa00]" started-at="2021-02-17T20:48:26Z" name="testgetdata" data-provider="test1data" finished-at="2021-02-17T20:48:26Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[August]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetdata -->
+      </class> <!-- Utils.ExcelDataProviderUsingTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

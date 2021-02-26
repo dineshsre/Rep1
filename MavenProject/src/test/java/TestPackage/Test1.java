@@ -16,8 +16,9 @@ public class Test1 {
 		driver.get("https://www.facebook.com");
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
-		
-		driver.findElement(By.xpath("//input[@id='u_0_m']")).sendKeys("Dinesh");
+		driver.findElement(By.xpath("//a[@id='u_0_2_Ho']")).click();
+		Thread.sleep(3000);
+		driver.findElement(By.xpath("//a[@id='u_s_b_AI']")).sendKeys("Dinesh");
 		driver.findElement(By.xpath("//input[@id='u_0_o']")).sendKeys("Mohan");
 		driver.findElement(By.xpath("//input[@id='u_0_r']")).sendKeys("987897890");
 		driver.findElement(By.xpath("//input[@id='password_step_input']")).sendKeys("nopassword");

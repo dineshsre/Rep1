@@ -25,7 +25,7 @@ public class GoogleSearchPageTest {
 	@Test
 	public static void GoogleSearch() throws InterruptedException {
 
-		GoogleSearchPage.textSearch(driver).sendKeys("PM of India");
+		GoogleSearchPage.textSearch(driver).sendKeys("Hightest railway bridge in world");
 		Thread.sleep(1000);
 		GoogleSearchPage.buttonSearch(driver).sendKeys(Keys.RETURN);
 
